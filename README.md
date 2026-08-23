@@ -11,8 +11,6 @@ I'm a final-year Computer Science Engineering student interested in software dev
 ### Languages
 - Java
 - Python
-- HTML
-- CSS
 
 ### Backend
 - Spring Boot
