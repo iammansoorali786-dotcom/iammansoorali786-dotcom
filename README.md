@@ -2,8 +2,7 @@
 
 ### Computer Science Engineering Student | Java Developer | Backend & Web Development
 
-I'm a final-year Computer Science Engineering student interested in software development, backend engineering, and building practical applications.
-
+I’m a final-year B.Tech CSE student with hands-on experience in Java, Python, Spring Boot, REST APIs, HTML, CSS, React, and MySQL. I’m interested in backend and web development, software testing, and building reliable applications.
 ---
 
 ## 🛠️ Tech Stack
