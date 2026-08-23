@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi 👋, I'm Mansoor Ali
 
-<!--
-**iammansoorali786-dotcom/iammansoorali786-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Java Developer | Backend & Web Development
 
-Here are some ideas to get you started:
+I'm a final-year Computer Science Engineering student interested in software development, backend engineering, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- HTML
+- CSS
+
+### Backend
+- Spring Boot
+- REST APIs
+- Spring Data JPA
+- Microservices
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Database & Tools
+- MySQL
+- Git
+- GitHub
+- VS Code
+
+### Other
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- AWS
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Issue Tracking System
+A full-stack issue tracking application built using Java and Spring Boot with REST APIs, MySQL, and Spring Data JPA.
+
+### 🔹 Object Detection using YOLOv8
+Trained a YOLOv8 model and deployed it on a Raspberry Pi-powered autonomous vehicle for real-time object detection.
+
+### 🔹 Timetable Optimizer
+Java-based application that detects scheduling conflicts and generates an optimized timetable using a greedy algorithm.
+
+### 🔹 Student Management System
+Java application implementing object-oriented programming concepts for managing student records.
+
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- REST API Development
+- Microservices
+- Cloud & AWS
+- Data Structures & Algorithms
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+
+VIT-AP University
+
+---
+
+## 🏆 Certifications
+
+- IBM Generative AI and Machine Learning using Python
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in software development, backend engineering, and opportunities to learn and build impactful applications.
+
+⭐ Feel free to explore my repositories and projects!
