@@ -84,4 +84,7 @@ VIT-AP University
 
 I'm interested in software development, backend engineering, and opportunities to learn and build impactful applications.
 
+- 💼 LinkedIn: https://www.linkedin.com/in/mansoor-ali-shaik-/
+- 📧 Email: shaikmansoorali.06@gmail.com
+
 ⭐ Feel free to explore my repositories and projects!
