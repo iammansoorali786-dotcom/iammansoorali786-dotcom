@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mansoor Ali
 
-## Computer Science Engineering Student | Java & Backend Developer | Web Development
+## Java & Backend Development | REST APIs | Web Applications
 
-I’m a final-year B.Tech CSE student with hands-on experience in Java, Python, Spring Boot, REST APIs, HTML, CSS, React, and MySQL. I’m interested in backend and web development, software testing, and building reliable applications.
+I enjoy building practical applications and improving my skills in software development, testing, and problem solving.
 ---
 
 ## 🛠️ Tech Stack
