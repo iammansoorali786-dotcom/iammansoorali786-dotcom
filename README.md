@@ -74,7 +74,10 @@ VIT-AP University
 
 ## 🏆 Certifications
 
-- IBM Generative AI and Machine Learning using Python
+- IBM Generative AI Advanced
+- Machine Learning using Python
+- AWS Cloud Foundation (2025)
+- AWS Cloud Architecture (2025)
 
 ---
 
